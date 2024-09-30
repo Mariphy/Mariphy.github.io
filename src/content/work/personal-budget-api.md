@@ -1,5 +1,5 @@
 ---
-title: Personal Budget Manager
+title: Personal Budget Manager API
 publishDate: 2020-03-02 00:00:00
 img: /assets/personal_budget.png
 img_alt: PrintScreen of a swagger documentation page featuring CRUD 
