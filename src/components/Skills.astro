@@ -1,24 +1,25 @@
 ---
 import Icon from './Icon.astro';
 ---
-
-<section class="box skills">
-	<div class="stack gap-2 lg:gap-4">
-		<Icon icon="terminal-window" color="var(--accent-regular)" size="2.5rem" gradient />
-		<h2>Full Stack</h2>
-		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod.</p>
-	</div>
-	<div class="stack gap-2 lg:gap-4">
-		<Icon icon="trophy" color="var(--accent-regular)" size="2.5rem" gradient />
-		<h2>Industry Leader</h2>
-		<p>Neque viverra justo nec ultrices dui. Est ultricies integer quis auctor elit.</p>
-	</div>
-	<div class="stack gap-2 lg:gap-4">
-		<Icon icon="strategy" color="var(--accent-regular)" size="2.5rem" gradient />
-		<h2>Strategy-Minded</h2>
-		<p>Urna porttitor rhoncus dolor purus non enim praesent ornare.</p>
-	</div>
-</section>
+<a href="/about/" class="no-underline">
+	<section class="box skills">
+		<div class="stack gap-2 lg:gap-4">
+			<Icon icon="terminal-window" color="var(--accent-regular)" size="2.5rem" gradient />
+			<h2>Full Stack</h2>
+			<p>Next.js and TypeScript, RESTful APIs with Node/Express.js, React, Python, SQL</p> 
+		</div>
+		<div class="stack gap-2 lg:gap-4">
+			<Icon icon="globe" color="var(--accent-regular)" size="2.5rem" gradient />
+			<h2>Diverse View</h2>
+			<p>Lived on 4 different continents. Speak several languages.</p>
+		</div>
+		<div class="stack gap-2 lg:gap-4">
+			<Icon icon="strategy" color="var(--accent-regular)" size="2.5rem" gradient />
+			<h2>Strategy-Minded</h2>
+			<p>Understand business needs. Organized and self-motivated. CAPM certified.</p>
+		</div>
+	</section>
+</a>
 
 <style>
 	.box {
@@ -57,6 +58,14 @@ import Icon from './Icon.astro';
 
 		.skills h2 {
 			font-size: var(--text-2xl);
+		}
+
+		.no-underline {
+		text-decoration: none;
+		}
+
+		.no-underline section {
+		text-decoration: none;
 		}
 	}
 </style>
