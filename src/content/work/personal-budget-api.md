@@ -6,8 +6,8 @@ img_alt: PrintScreen of a swagger documentation page featuring CRUD
 description: |
   I designed and built a Personal Budget Manager, which aims to help users manage their finances more effectively and prevent overspending, using envelope budgeting method.
 tags:
-  - RESTful API
   - Back-End
+  - RESTful API
   - Node/Express.js
   - PostgreSQL
 ---

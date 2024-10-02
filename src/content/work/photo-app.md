@@ -6,9 +6,9 @@ img_alt: A bright pink sheet of paper used to wrap flowers curves in front of ri
 description: |
   This is the project I'm currently working on.
 tags:
+  - Backend
   - OAuth2
   - In progress
-  - Backend
 ---
 
 ### Description
