@@ -17,6 +17,8 @@ This is the Next.js App Router Course Project. It was created using  starting co
 
 Check the app [here](https://nextjs-dashboard-git-master-mariphys-projects.vercel.app/).
 
+Link to the [GitHub repository](https://github.com/Mariphy/nextjs-dashboard).
+
 #### Tech/Tools Used:
 - React.js
 - Next.js

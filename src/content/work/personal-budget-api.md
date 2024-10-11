@@ -20,6 +20,8 @@ It's a Node/Express API, all data is persisted in a database using PostgreSQL.
 
 Back end API is deployed on [Render](https://personal-budget-portfolio-project.onrender.com/).
 
+Link to the [GitHub repository](https://github.com/Mariphy/Personal_Budget_Portfolio_Project/tree/main/Api).
+
 #### Tech Stack
 
 - JavaScript
