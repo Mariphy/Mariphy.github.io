@@ -8,6 +8,7 @@ description: |
 tags:
   - Fullstack
   - Next.js
+github: https://github.com/Mariphy/nextjs-dashboard
   
 ---
 

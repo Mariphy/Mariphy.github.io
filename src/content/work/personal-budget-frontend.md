@@ -8,6 +8,7 @@ description: |
 tags:
   - Front-End
   - React
+github: https://github.com/Mariphy/Personal_Budget_Portfolio_Project/tree/main/Client 
 ---
 
 In order to test the Personal Budget API you could use this front-end application made with React. It is deployed with [Vercel](https://personal-budget-portfolio-project.vercel.app/). Please allow up to 50 seconds for the initial load. 
