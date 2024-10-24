@@ -19,7 +19,7 @@ Budget is divided into different spending categories and limits spending to the 
 
 It's a Node/Express API, all data is persisted in a database using PostgreSQL.
 
-Back end API is deployed on [Render](https://personal-budget-portfolio-project.onrender.com/).
+Back end API is deployed on <a href="https://personal-budget-portfolio-project.onrender.com/" target="_blank" rel="noopener noreferrer">Render</a>.
 
 Link to the [GitHub repository](https://github.com/Mariphy/Personal_Budget_Portfolio_Project/tree/main/Api).
 
