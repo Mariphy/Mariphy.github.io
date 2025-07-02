@@ -71,6 +71,5 @@ Key challenges included:
 - Optimizing performance for smooth animations
 
 ### Links
-- [Live Demo](https://routiner.vercel.app)
-- [GitHub Repository](https://github.com/Mariphy/routiner)
-- [App Beta Version](https://routiner-lovat.vercel.app/)
+- <a href="https://github.com/Mariphy/routiner" target="_blank" rel="noopener noreferrer">GitHub Repository</a>
+- <a href="https://routiner-lovat.vercel.app/" target="_blank" rel="noopener noreferrer">App Beta Version</a>
