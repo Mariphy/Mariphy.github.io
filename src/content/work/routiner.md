@@ -1,6 +1,6 @@
 ---
 title: Routiner 
-publishDate: 2020-03-05 00:00:00
+publishDate: 2025-03-05 00:00:00
 img: /assets/routiner.png
 img_alt: Routiner app interface showing a clean task management system
 description: |
