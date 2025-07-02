@@ -17,6 +17,21 @@ github: https://github.com/Mariphy/routiner
 
 A modern calendar and productivity app that helps you manage routines, track habits, schedule classic events, and organize to-do tasks—all in one place.
 
+### Video Demo
+Check out Routiner in action:
+
+<div class="video-container">
+    <iframe 
+        width="100%" 
+        height="400" 
+        src="https://www.youtube.com/embed/v4qOKFPPTkg" 
+        title="Routiner App Demo" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+        allowfullscreen>
+    </iframe>
+</div>
+
 #### Key Features
 - **Board View**: Intuitive drag-and-drop interface for weekly planning
 - **Calendar View**: 
@@ -45,21 +60,6 @@ A modern calendar and productivity app that helps you manage routines, track hab
 - **Database**: MongoDB
 - **Authentication**: JWT for secure user sessions
 - **Deployment**: Vercel
-
-### Video Demo
-Check out Routiner in action:
-
-<div class="video-container">
-    <iframe 
-        width="100%" 
-        height="400" 
-        src="https://www.youtube.com/embed/v4qOKFPPTkg" 
-        title="Routiner App Demo" 
-        frameborder="0" 
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-        allowfullscreen>
-    </iframe>
-</div>
 
 ### Development Journey
 This project was born from a personal need to better manage daily routines and form lasting habits. The development process focused on creating an intuitive user experience while maintaining robust backend functionality.
